@@ -1,5 +1,5 @@
 <div align="center">
-<h3 style='color:yellow'> Let's Make Something Interesting⛏ </h3> 
+<h3 style='color:yellow'> Make Something Interesting⛏ </h3> 
 안녕하세요, 다양한 분야를 탐험 중인 최정윤입니다🧭
   
 <div>
