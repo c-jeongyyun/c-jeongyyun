@@ -16,12 +16,12 @@
 
   <br/>
   
-| have projects | have ever used |
+<!--| have projects | have ever used |
 |:-------------:|:--------------:|
 | <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">      | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=Java&logoColor=white">      |
 </div>  
  
-<br/>
+<br/> -->
 
   
 <div>
