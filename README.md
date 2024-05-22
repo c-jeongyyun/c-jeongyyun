@@ -42,6 +42,16 @@
 
 </div>
 
+<div>
+  <h3>
+  2023 WakaTime stats
+  </h3>
+
+  <img src="https://github.com/c-jeongyyun/c-jeongyyun/assets/77582221/eac3fc6e-9e4c-401b-924c-687bcc860d83" width="500" >
+  
+  [more](https://wakatime.com/a-look-back-at-2023/d8bd5fc3-3e49-4c33-942c-a26544106bd9/tdkuxwgqsu)
+</div>
+
 <!--
 **c-jeongyyun/c-jeongyyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
