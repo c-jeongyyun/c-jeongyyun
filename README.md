@@ -47,10 +47,11 @@
   2023 WakaTime stats
   </h3>
 
-  <img src="https://github.com/c-jeongyyun/c-jeongyyun/assets/77582221/eac3fc6e-9e4c-401b-924c-687bcc860d83" width="500" >
+  <img width="1138" alt="image" src="https://github.com/user-attachments/assets/9fe261c7-5316-4d56-9ab9-c1735ad4393c" />
   
-  [more](https://wakatime.com/a-look-back-at-2023/d8bd5fc3-3e49-4c33-942c-a26544106bd9/tdkuxwgqsu)
+  [more](https://wakatime.com/a-look-back-at-2024/d8bd5fc3-3e49-4c33-942c-a26544106bd9/qttludnvof)
 </div>
+
 
 <!--
 **c-jeongyyun/c-jeongyyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
