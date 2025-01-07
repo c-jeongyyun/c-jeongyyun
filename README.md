@@ -44,7 +44,7 @@
 
 <div>
   <h3>
-  2023 WakaTime stats
+  2024 WakaTime stats
   </h3>
 
   <img width="1138" alt="image" src="https://github.com/user-attachments/assets/9fe261c7-5316-4d56-9ab9-c1735ad4393c" />
